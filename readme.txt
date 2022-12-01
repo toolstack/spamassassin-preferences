@@ -4,7 +4,7 @@ Plugin URI: http://toolstack.com/sa-prefs
 Author URI: http://toolstack.com
 Tags: spamassassin
 Requires at least: 3.5.0
-Tested up to: 5.4
+Tested up to: 6.1.1
 Stable tag: 1.0
 
 Set your SpamAssassin preferences from your WordPress user profile.
